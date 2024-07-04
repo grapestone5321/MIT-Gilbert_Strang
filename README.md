@@ -139,3 +139,152 @@ https://ocwx.ocw.u-tokyo.ac.jp/course_11384/
 
 -----
 
+# Gilbert Strang's Calculus Lectures
+
+https://www.youtube.com/playlist?list=PLFW_V3qDH5jRyfpD9uiq6aKVTWIxpbIm3
+
+1
+
+37:47
+Now playing
+Big Picture of Calculus
+MIT OpenCourseWare
+•
+1.1M views • 14 years ago
+
+2
+
+30:05
+Now playing
+Big Picture: Derivatives
+MIT OpenCourseWare
+•
+359K views • 14 years ago
+
+3
+
+38:31
+Now playing
+Max and Min and Second Derivative
+MIT OpenCourseWare
+•
+256K views • 14 years ago
+
+4
+
+38:54
+Now playing
+The Exponential Function
+MIT OpenCourseWare
+•
+509K views • 14 years ago
+
+5
+
+37:22
+Now playing
+Big Picture: Integrals
+MIT OpenCourseWare
+•
+301K views • 14 years ago
+
+6
+
+34:39
+Now playing
+Derivative of sin x and cos x
+MIT OpenCourseWare
+•
+220K views • 13 years ago
+
+7
+
+36:14
+Now playing
+Product Rule and Quotient Rule
+MIT OpenCourseWare
+•
+78K views • 13 years ago
+
+8
+
+35:21
+Now playing
+Chains f(g(x)) and the Chain Rule
+MIT OpenCourseWare
+•
+91K views • 13 years ago
+
+9
+
+36:26
+Now playing
+Limits and Continuous Functions
+MIT OpenCourseWare
+•
+255K views • 13 years ago
+
+10
+
+25:51
+Now playing
+Derivatives of ln y and sin ^-1 (y)
+MIT OpenCourseWare
+•
+39K views • 13 years ago
+
+11
+
+33:00
+Now playing
+Growth Rate and Log Graphs
+MIT OpenCourseWare
+•
+76K views • 13 years ago
+
+12
+
+31:41
+Now playing
+Linear Approximation/Newton's Method
+MIT OpenCourseWare
+•
+151K views • 13 years ago
+
+13
+
+30:50
+Now playing
+Power Series/Euler's Great Formula
+MIT OpenCourseWare
+•
+307K views • 13 years ago
+
+14
+
+32:13
+Now playing
+Differential Equations of Motion
+MIT OpenCourseWare
+•
+104K views • 13 years ago
+
+15
+
+34:21
+Now playing
+Differential Equations of Growth
+MIT OpenCourseWare
+•
+44K views • 13 years ago
+
+16
+
+38:06
+Now playing
+Six Functions, Six Rules, and Six Theorems
+MIT OpenCourseWare
+•
+65K views • 13 years ago
+
+
