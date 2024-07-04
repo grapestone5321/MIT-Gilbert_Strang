@@ -131,5 +131,11 @@ SES #	TOPICS	READINGS IN 4TH EDITION	READINGS IN 5TH EDITION
 
 40	Final exam
 
+
+## UTokyo OpenCourseWare extra (UTokyo OCWx)
+
+### Linear Algebra
+https://ocwx.ocw.u-tokyo.ac.jp/course_11384/
+
 -----
 
