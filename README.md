@@ -45,6 +45,9 @@ The readings are assigned in: Strang, Gilbert. Introduction to Linear Algebra. 4
 
 Reading assignments are also provided for the newer edition: Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley-Cambridge Press, 2016. ISBN: 9780980232776.
 
+- Introduction to Linear Algebra, 4th Edition
+https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf
+
 SES #	TOPICS	READINGS IN 4TH EDITION	READINGS IN 5TH EDITION
 
 1	The geometry of linear equations	1.1-2.1	﻿1.1-2.1
