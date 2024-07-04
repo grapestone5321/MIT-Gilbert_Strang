@@ -16,6 +16,7 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
 ## MIT 18.06SC Linear Algebra, Fall 2011
 MIT OpenCourseWare
 
+https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
 
 https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C
 
