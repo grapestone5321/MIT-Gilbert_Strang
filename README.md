@@ -145,6 +145,8 @@ MIT OpenCourseWare
 
 https://www.youtube.com/playlist?list=PLFW_V3qDH5jRyfpD9uiq6aKVTWIxpbIm3
 
+https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/
+
 1
 
 37:47
